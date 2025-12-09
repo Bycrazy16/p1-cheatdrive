@@ -1,0 +1,1 @@
+Attenzione il testo del primo esercizio presenta errori negli esempi dei file.
